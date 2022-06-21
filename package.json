@@ -1,0 +1,9 @@
+{
+  "name": "cow-sdk-nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@cowprotocol/cow-sdk": "^0.0.13"
+  }
+}
