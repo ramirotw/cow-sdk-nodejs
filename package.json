@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "type": "module",
   "dependencies": {
-    "@cowprotocol/cow-sdk": "^0.0.13"
+    "@cowprotocol/cow-sdk": "file:.yalc/@cowprotocol/cow-sdk"
   }
 }

@@ -1,4 +1,4 @@
-const { CowSdk } = require('@cowprotocol/cow-sdk')
+import { CowSdk } from '@cowprotocol/cow-sdk'
 
 const chainId = 4 // Rinkeby
 const cowSdk = new CowSdk(chainId)
